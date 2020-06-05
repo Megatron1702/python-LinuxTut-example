@@ -1,7 +1,6 @@
 def main(msg):
-    //Another comment
-    //Adding a second comment in this file.
-    //print a message
-    print(msg)
+        print(msg)
 
+def func2():
+        print("Secondary Function")
 main("Hello World")
